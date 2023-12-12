@@ -1,16 +1,57 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JS
-<!--
-**kasssi29/Kasssi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I'm a professional with a diverse background and a current focus on data processing. My expertise includes:
 
-- 🔭 I’m currently working on README
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azure Data Explorer
+- KQL
+- Cosmos
+- Azure Data Factory
+- GitHub
+- Power BI
+
+## Professional Journey
+
+Before data processing, I excelled in web analytics, digital marketing, and international relations. I bring a strategic mindset for cohesive brand presence and campaign success.
+
+## Skills
+
+### Soft Skills
+
+- Problem-solving
+- Teamwork
+- Communication
+- Time Management
+- Learning on the Fly
+- Agile Thinking
+
+### Technical Skills
+
+- HTML
+- CSS
+- Python
+- C#
+- SQL
+- KQL
+- Cloud Computing (Azure)
+- DevOps
+- GitHub
+
+### Customer Services
+
+- Negotiations
+- Brand Management
+- Contract Negotiations
+
+### Website Administration and Marketing
+
+- Design (Photoshop, Figma)
+- SEO
+- Social Media Marketing
+- Google Ads and Analytics
+
+## Transition to Software Development
+
+Originally proficient in web design and digital analytics, I transitioned to software development, driven by a passion for AI.
+
+Let's connect and explore my repositories! 🚀
