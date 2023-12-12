@@ -50,8 +50,6 @@ Before data processing, I excelled in web analytics, digital marketing, and inte
 - Social Media Marketing
 - Google Ads and Analytics
 
-## Transition to Software Development
-
-Originally proficient in web design and digital analytics, I transitioned to software development, driven by a passion for AI.
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,linux,py,js,html,css,figma,ps)](https://skillicons.dev)
 
 Let's connect and explore my repositories! 🚀
