@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning JS
 <!--
 **kasssi29/Kasssi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
