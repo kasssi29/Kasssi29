@@ -37,12 +37,6 @@ Before data processing, I excelled in web analytics, digital marketing, and inte
 - DevOps
 - GitHub
 
-### Customer Services
-
-- Negotiations
-- Brand Management
-- Contract Negotiations
-
 ### Website Administration and Marketing
 
 - Design (Photoshop, Figma)
