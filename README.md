@@ -47,7 +47,7 @@ I create maintainable, scalable solutions and share templates and starter projec
 ## 💼 Experience & Focus Areas
 I design and build scalable, reusable solutions for different business needs, including:
 
--🛒 Marketplaces — multi-role platforms (buyers, sellers, admins), secure payments, product catalogs
+- 🛒 Marketplaces — multi-role platforms (buyers, sellers, admins), secure payments, product catalogs
 - 🗂 CRM Systems — role-based access, client/equipment management, statistics dashboards
 - 🌍 CMS Platforms — headless and traditional content management systems
 - 🍽 Multi-language Restaurant Menus — QR menus, ordering systems, booking platforms
