@@ -7,25 +7,36 @@ I create maintainable, scalable solutions and share templates and starter projec
 
 ## 🔧 Technical Skills
 
-### Backend
-- Node.js, Express, MongoDB, JWT
-- C#, .NET, Entity Framework, Web API
-- SQL (T-SQL, schema design, LINQ-to-SQL)
-- Python (Django, REST Framework)
+### Languages & Frameworks
 
-### Frontend
-React, Vue.js, Nuxt.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- C#: .NET, Entity Framework, Web API
+- JavaScript: Node.js, Express
+- Python: Django, Django REST Framework
 
-### Architecture & DevOps
+### Frontend: 
+- HTML5, CSS3, Tailwind CSS
+- React, Vue.js, Nuxt.js, ES6+
+
+### Databases
+- SQL: T-SQL, schema design, LINQ-to-SQL
+- NoSQL: MongoDB, Cosmos DB
+
+### Architecture & Development Practices
 - Layered Architecture, SOLID, DRY, Repository Pattern, Dependency Injection
-- Azure (Portal, CI/CD Pipelines), GitHub Actions, Docker, Docker Compose, Vercel, Render
+- REST API Development, JWT Authentication, ORM (Entity Framework, Mongoose)
+
+### DevOps & Deployment
+- Azure (Portal, CI/CD Pipelines)
+- GitHub Actions, Docker, Docker Compose
+- Vercel, Render
 
 ### Data & Analytics
-Azure Data Explorer (KQL), Power BI, Azure Data Factory, Cosmos DB
+- Azure Data Explorer (KQL), Power BI, Azure Data Factory
 
 ### Web Administration & Marketing
 - SEO Optimization, Google Ads, Google Analytics
-- Design (Photoshop, Figma)
+
+### Design (Photoshop, Figma)
 
 ## 💡 Soft Skills
 - Problem-solving & Analytical Thinking
@@ -46,3 +57,4 @@ I design and build scalable, reusable solutions for different business needs, in
 [![My Skills](https://skillicons.dev/icons?i=azure,dotnet,linux,py,js,html,css,figma,ps)](https://skillicons.dev)
 
 Let's connect and explore my repositories! 🚀
+(If you read this far — you’re a real smart@$$.)
