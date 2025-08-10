@@ -1,48 +1,47 @@
 ### Hi there 👋
+
 # About Me
 
-I'm a professional with a diverse background and a current focus on data processing. My expertise includes:
+I’m a Full Stack Developer with 20+ years in IT, now focusing on backend architecture and API development using Node.js, C#/.NET, and modern cloud tools.
+I create maintainable, scalable solutions and share templates and starter projects here that can be reused for production systems or learning purposes.
 
-- Azure Data Explorer
-- KQL
-- Cosmos
-- Azure Data Factory
-- GitHub
-- Power BI
+## 🔧 Technical Skills
 
-## Professional Journey
+### Backend
+- Node.js, Express, MongoDB, JWT
+- C#, .NET, Entity Framework, Web API
+- SQL (T-SQL, schema design, LINQ-to-SQL)
+- Python (Django, REST Framework)
 
-Before data processing, I excelled in web analytics, digital marketing, and international relations. I bring a strategic mindset for cohesive brand presence and campaign success.
+### Frontend
+React, Vue.js, Nuxt.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 
-## Skills
+### Architecture & DevOps
+- Layered Architecture, SOLID, DRY, Repository Pattern, Dependency Injection
+- Azure (Portal, CI/CD Pipelines), GitHub Actions, Docker, Docker Compose, Vercel, Render
 
-### Soft Skills
+### Data & Analytics
+Azure Data Explorer (KQL), Power BI, Azure Data Factory, Cosmos DB
 
-- Problem-solving
-- Teamwork
-- Communication
-- Time Management
-- Learning on the Fly
-- Agile Thinking
-
-### Technical Skills
-
-- HTML
-- CSS
-- Python
-- C#
-- SQL
-- KQL
-- Cloud Computing (Azure)
-- DevOps
-- GitHub
-
-### Website Administration and Marketing
-
+### Web Administration & Marketing
+- SEO Optimization, Google Ads, Google Analytics
 - Design (Photoshop, Figma)
-- SEO
-- Social Media Marketing
-- Google Ads and Analytics
+
+## 💡 Soft Skills
+- Problem-solving & Analytical Thinking
+- Agile / Scrum Collaboration
+- Communication & Mentoring
+- Strategic Project Planning
+
+## 💼 Experience & Focus Areas
+I design and build scalable, reusable solutions for different business needs, including:
+
+-🛒 Marketplaces — multi-role platforms (buyers, sellers, admins), secure payments, product catalogs
+- 🗂 CRM Systems — role-based access, client/equipment management, statistics dashboards
+- 🌍 CMS Platforms — headless and traditional content management systems
+- 🍽 Multi-language Restaurant Menus — QR menus, ordering systems, booking platforms
+- 💳 Payment Integration — Stripe, Safe Deal, subscription logic
+- 📊 Analytics Dashboards — real-time data visualization and KPIs
 
 [![My Skills](https://skillicons.dev/icons?i=azure,dotnet,linux,py,js,html,css,figma,ps)](https://skillicons.dev)
 
